@@ -1,4 +1,4 @@
-# GWshop - An application for bargain notification based on Oracle APEX.
+# GWshop - An application for bargain notification based on Oracle APEX
 
 ## Introduction
 ![](imgs/GWShop-03.jpg)
